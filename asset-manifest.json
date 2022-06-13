@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1e1ef5c2.css",
+    "main.js": "/portfolio/static/js/main.5dd81554.js",
+    "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/betea.PNG": "/portfolio/static/media/betea.359fa121025cb024ddac.PNG",
+    "static/media/gym.PNG": "/portfolio/static/media/gym.10801bc2c9f5ede520e3.PNG",
+    "static/media/Capture.PNG": "/portfolio/static/media/Capture.a11ea45c88406ac25b23.PNG",
+    "static/media/testimonials-bg.jpg": "/portfolio/static/media/testimonials-bg.75612be74ca26cb2eee2.jpg",
+    "static/media/drumbeat.PNG": "/portfolio/static/media/drumbeat.9ec3f74d41e774f4acc8.PNG",
+    "static/media/IMG_3129.JPG": "/portfolio/static/media/IMG_3129.6b7444561330f93c4278.JPG",
+    "static/media/wall-and-laptop-background.jpg": "/portfolio/static/media/wall-and-laptop-background.f9e274f49e7f72950a2f.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.ad9a616546d296d07063.png",
+    "static/media/blockmanipulation.PNG": "/portfolio/static/media/blockmanipulation.65a4529f4064c6f76900.PNG",
+    "static/media/guessTheNumber.PNG": "/portfolio/static/media/guessTheNumber.9f5492a4712f8cbaa687.PNG",
+    "static/media/avatar-4.png": "/portfolio/static/media/avatar-4.f7fb7ed7493d87bbba75.png",
+    "static/media/avatar-3.png": "/portfolio/static/media/avatar-3.d6c9b46f1e2a3bbfbefa.png",
+    "static/media/avatar-1.png": "/portfolio/static/media/avatar-1.9277ecea7570a7cb523d.png",
+    "static/media/avatar-2.png": "/portfolio/static/media/avatar-2.75d8f23ea5e97b4d897d.png",
+    "index.html": "/portfolio/index.html",
+    "main.1e1ef5c2.css.map": "/portfolio/static/css/main.1e1ef5c2.css.map",
+    "main.5dd81554.js.map": "/portfolio/static/js/main.5dd81554.js.map",
+    "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1ef5c2.css",
+    "static/js/main.5dd81554.js"
+  ]
+}
